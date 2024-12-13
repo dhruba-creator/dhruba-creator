@@ -1,0 +1,9 @@
+const profile = {
+  username: "dhruba",
+  followers: 144,
+  following: 99,
+  post: 1,
+  is_followed: true,
+  bio: ":)"
+}
+console.log(profile.bio);
